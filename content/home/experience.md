@@ -29,12 +29,7 @@ experience:
     location: Shanghai
     date_start: '2020-12-15'
     date_end: '2021-09-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Researched on approaches in knowledge distillation for NLP models.
         
   - title: Research Intern
     company: E-Capital Transfer Co., Ltd.
@@ -43,7 +38,11 @@ experience:
     location: Shanghai
     date_start: '2020-08-15'
     date_end: '2020-05-05'
-    description: Researched on state-of-the-art NLP algorithms.
+    description: |2-
+        Responsibilities include:
+        
+        * Researched on state-of-the-art NLP algorithms.
+        * Developed conversational agents
 
   - title: Natural Language Processing Engineering Intern
     company: Ipsos (China) Consulting Co., Ltd.

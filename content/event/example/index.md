@@ -1,25 +1,25 @@
 ---
-title: Example Talk
+title: 
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: SustaiNLP 2021, EMNLP workshop
+event_url: https://sites.google.com/view/sustainlp2021
 
-location: Wowchemy HQ
+location: Online & Punta Cana, Dominican Republic
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Barceló Bávaro Convention Centre
+  city: Punta Cana
   region: CA
-  postcode: '94305'
-  country: United States
+  postcode: '23000'
+  country: Dominican Republic
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An oral presentation of our accepted paper "Distiller A Systematic Study of Model Distillation Methods in Natural Language Processing"
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2021-11-10"
+date_end: "2021-11-11"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/HaoyuHe212
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -57,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- distiller
 ---
 
 {{% callout note %}}
