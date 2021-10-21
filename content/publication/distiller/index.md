@@ -38,7 +38,7 @@ abstract: Knowledge Distillation (KD) offers a natural way to reduce the latency
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing # elit. Duis posuere tellus ac convallis placerat. Proin tincidunt # magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [knowledge distillation, natural language processing]
 
 # Display this page in the Featured widget?
 featured: true
