@@ -22,27 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Software Dev Engineer Intern
     company: Amazon Web Services
     company_url: ''
     company_logo: amazon
     location: Shanghai
     date_start: '2020-12-15'
     date_end: '2021-09-30'
-    description: Researched on approaches in knowledge distillation for NLP models.
+    description: Worked as a research intern supervised by Dr. Xingjian Shi. Proposed a meta-learning framework that can be used to learn the underpinning factors within the process of KD. Based on this framework, we conducted a systematic experimental study of KD in NLP and proposed a novel objective function to boost knowledge transfer.
         
   - title: Research Intern
     company: E-Capital Transfer Co., Ltd.
     company_url: ''
-    company_logo: org-x
+    company_logo: ecapital
     location: Shanghai
     date_start: '2020-08-15'
     date_end: '2020-05-05'
     description: |2-
         Responsibilities include:
         
-        * Researched on state-of-the-art NLP algorithms.
-        * Developed conversational agents
+        * Studied semantic models and improved the performance of sentence similarity prediction in RASA-based conversational agents, a product in this company.
+        * Achieved in improving the accuracy of sentence similarity prediction task from 34\% to 52\% on the business dataset.
 
   - title: Natural Language Processing Engineering Intern
     company: Ipsos (China) Consulting Co., Ltd.
@@ -51,7 +51,7 @@ experience:
     location: Shanghai
     date_start: '2019-10-08'
     date_end: '2020-04-20'
-    description: Used NLP techniques to develop models which are used to analyze results of surveys and marketing reports.
+    description: Used NLP techniques to develop models which are used to analyze surveys and marketing reports.
 
 design:
   columns: '2'
