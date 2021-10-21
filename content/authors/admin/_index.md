@@ -27,7 +27,7 @@ education:
   courses:
   - course: Msc in Artificial Intelligence
     institution: Northeastern University
-    year: 2022
+    year: 2022 (expected)
   - course: BEng in Computer Science and Technology
     institution: Wuhan University of Science and Technology
     year: 2019
@@ -69,4 +69,4 @@ highlight_name: true
 
 I am a Master student of Artificial Intelligence in Northeastern University. My research interests lie within natural language processing with deep learning.
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/HaoyuHe_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
