@@ -29,7 +29,7 @@ experience:
     location: Shanghai
     date_start: '2020-12-15'
     date_end: '2021-09-30'
-    description: Worked as a research intern supervised by Dr. Xingjian Shi. Proposed a meta-learning framework that can be used to learn the underpinning factors within the process of KD. Based on this framework, we conducted a systematic experimental study of KD in NLP and proposed a novel objective function to boost knowledge transfer.
+    description: Worked as a research intern supervised by Dr. [Xingjian Shi](https://sxjscience.github.io/). Proposed a meta-learning framework that can be used to learn the underpinning factors within the process of KD. Based on this framework, we conducted a systematic experimental study of KD in NLP and proposed a novel objective function to boost knowledge transfer.
         
   - title: Research Intern
     company: E-Capital Transfer Co., Ltd.
