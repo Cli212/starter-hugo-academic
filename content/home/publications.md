@@ -20,4 +20,4 @@ content:
 design:
   view: 4
 ---
-\[1] Haoyu He, Xingjian Shi, Jonas Mueller, Zha Sheng, Mu Li, and GeorgeKarypis. [Distiller: A systematic study of model distillation methods in natural language processing.](https://arxiv.org/pdf/2109.11105.pdf) InProceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing, 2021.
+\[1] Haoyu He, Xingjian Shi, Jonas Mueller, Sheng Zha, Mu Li, and GeorgeKarypis. [Distiller: A systematic study of model distillation methods innatural language processing.](https://aclanthology.org/2021.sustainlp-1.13/) InProceedings of the Second Workshop onSimple and Efficient Natural Language Processing, pages 119–133, Virtual,November 2021. Association for Computational Linguistics.
