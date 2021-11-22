@@ -41,8 +41,8 @@ links:
   url: https://twitter.com/HaoyuHe212
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://d3smihljt9218e.cloudfront.net/lecture/39757/slideshow/bd1a104136c5f0c157adb24f5a34d671.pdf"
+url_video: "https://underline.io/events/192/sessions/7867/lecture/39757-distiller-a-systematic-study-of-model-distillation-methods-in-natural-language-processing"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,14 +60,3 @@ projects:
 - distiller
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
