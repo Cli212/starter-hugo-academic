@@ -67,6 +67,7 @@ email: "he.haoy@northeastern.edu"
 highlight_name: true
 ---
 
-I am a Master student of Artificial Intelligence in Northeastern University. My research interests lie within natural language processing with deep learning.
+My research interests lie within natural language processing and deep learning. Currently, I am broadly interested in the following topics: multimodal understanding, neural information retrieval, language models, few-shot learning in NLP, causal inference in NLP, and low-resource
+NLP.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/HaoyuHe_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
